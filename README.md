@@ -14,7 +14,7 @@
 
 # Installation+Run🕸
 ```shell
-git clone https://github.com/ox1nec/AutoStaking-bot
+git clone https://github.com/salutero/AutoStaking-bot
 cd AutoStaking-bot
 run.bat
 ```
@@ -22,7 +22,7 @@ run.bat
 **OR**
 
 ```shell
-git clone https://github.com/ox1nec/AutoStaking-bot
+git clone https://github.com/salutero/AutoStaking-bot
 cd AutoStaking-bot
 pip install -r requirements.txt
 python bot.py
